@@ -27,3 +27,7 @@ Ta aplikacja jest udostępniana na licencji [MIT](LICENSE).
 ---
 
 Dziękujemy za zainteresowanie naszą aplikacją. Jeśli masz jakiekolwiek pytania lub problemy, skontaktuj się z naszym zespołem pod adresem [frasiaczki@gmail.com](mailto:frasiaczki@gmail.com).
+
+
+![image](https://github.com/kotalgon/repozytorium/assets/133630813/19ca2e38-9ad7-4354-9a09-c36a87f63dd5)
+
