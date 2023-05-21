@@ -15,6 +15,12 @@ Aplikacja wymiany walut i sprawdzania kursów to narzędzie umożliwiające uży
 
 Aplikacja jest przeznaczona dla systemu Windows.
 
+## Technologie
+
+- node.js <= backend
+- express <===
+- chart.js  || dependencies
+- ejs     <===
 
 ## Kontrybucje
 
