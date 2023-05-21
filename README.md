@@ -2,7 +2,7 @@
 
 ## Opis
 
-Aplikacja wymiany walut i sprawdzania kursów to narzędzie umożliwiające użytkownikom łatwą i szybką wymianę walut oraz sprawdzenie aktualnych kursów. Aplikacja jest dostępna dla użytkowników za pośrednictwem urządzeń mobilnych i przeglądarek internetowych.
+Aplikacja wymiany walut i sprawdzania kursów to narzędzie umożliwiające użytkownikom łatwą i szybką wymianę walut oraz sprawdzenie aktualnych kursów. Aplikacja jest dostępna dla użytkowników za pośrednictwem przeglądarek internetowych.
 
 ## Funkcje
 
