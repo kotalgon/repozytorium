@@ -29,7 +29,7 @@ Moim głównym celem jest kontynuowanie nauki i rozwijanie umiejętności progra
 Jeśli chciałbyś się ze mną skontaktować lub dowiedzieć się więcej, możesz wysłać mi wiadomość na adres email lub skontaktować się ze mną przez media społecznościowe.
 
 Email: [frasiaczki@email.com]
-GitHub: [[Mój profil github](https://github.com/kotalgon)]
+GitHub: [[Mój profil github](https://github.com/kotalgon)] 
 Bardzo chętnie nawiążę kontakt z innymi programistami i uczę się od nich.
 
 
