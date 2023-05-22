@@ -4,32 +4,32 @@ Cześć! Jestem młody i dopiero rozpoczynam swoją przygodę z programowaniem. 
 ##Edukacja
 Aktualnie uczęszczam do Zespołu Szkół Technicznych i Informatycznych (ZSTI). Jestem zaangażowany w zdobywanie wiedzy z zakresu programowania i technologii informatycznych. Przez moje zaangażowanie i pasję do programowania, staram się rozwijać umiejętności w ramach zajęć szkolnych oraz poza nimi.
 
-##Umiejętności
-###HTML
+## Umiejętności
+### HTML
 Posiadam solidne podstawy HTML.
 Potrafię tworzyć strukturalne i semantyczne strony internetowe.
 Znam tagi i elementy HTML oraz wiem, jak je prawidłowo używać.
-###JavaScript
+### JavaScript
 Jest to mój ulubiony język programowania.
 Znam podstawy JavaScript i potrafię tworzyć interaktywne funkcjonalności na stronach internetowych.
-###CSS
+### CSS
 Mam doświadczenie w tworzeniu stylów i układów stron internetowych za pomocą CSS.
 Potrafię tworzyć responsywne projekty, które dobrze wyglądają na różnych urządzeniach.
-###PHP 
+### PHP 
 Znam podstawy PHP i potrafię tworzyć dynamiczne strony internetowe.
 Mam wiedzę na temat operacji na bazach danych MySQL i umiem korzystać z zapytań SQL w PHP.
 Potrafię tworzyć formularze, przetwarzać dane wprowadzane przez użytkowników i tworzyć interaktywne aplikacje webowe.
-###Python
+### Python
 Mam podstawową wiedzę na temat języka Python.
 Potrafię pisać proste skrypty i aplikacje w Pythonie.
-##Cel
+## Cel
 Moim głównym celem jest kontynuowanie nauki i rozwijanie umiejętności programistycznych. Chcę zdobywać doświadczenie poprzez praktyczne projekty i rozwiązywanie problemów. Jestem otwarty na możliwość nauki nowych technologii i narzędzi, aby poszerzyć moje umiejętności programistyczne.
 
-##Kontakt
+## Kontakt
 Jeśli chciałbyś się ze mną skontaktować lub dowiedzieć się więcej, możesz wysłać mi wiadomość na adres email lub skontaktować się ze mną przez media społecznościowe.
 
 Email: [frasiaczki@email.com]
-GitHub: [[Twój profil GitHub](https://github.com/kotalgon)]
+GitHub: [[Mój profil github](https://github.com/kotalgon)]
 Bardzo chętnie nawiążę kontakt z innymi programistami i uczę się od nich.
 
 
