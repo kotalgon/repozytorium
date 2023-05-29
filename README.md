@@ -1,7 +1,7 @@
 # Informacje o mnie
 Cześć! Jestem młody i dopiero rozpoczynam swoją przygodę z programowaniem. Jestem entuzjastą technologii i chętnie rozwijam się w różnych obszarach. Mam opanowane podstawy HTML, JavaScript, CSS, PHP i Python, jednak najbardziej skupiam się na tworzeniu stron internetowych przy użyciu HTML-a. Moim ulubionym językiem programowania jest JavaScript.
 
-##Edukacja
+## Edukacja
 Aktualnie uczęszczam do Zespołu Szkół Technicznych i Informatycznych (ZSTI). Jestem zaangażowany w zdobywanie wiedzy z zakresu programowania i technologii informatycznych. Przez moje zaangażowanie i pasję do programowania, staram się rozwijać umiejętności w ramach zajęć szkolnych oraz poza nimi.
 
 ## Umiejętności
